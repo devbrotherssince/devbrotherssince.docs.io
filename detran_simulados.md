@@ -98,6 +98,16 @@ Notificaremos sobre alterações significativas através de:
 
 A última atualização desta política ocorreu em 25 de julho de 2025.
 
+## AVISO SOBRE AFILIAÇÃO GOVERNAMENTAL
+
+Este aplicativo é desenvolvido por terceiros e NÃO possui vínculo oficial com o DETRAN, órgãos governamentais ou entidades públicas relacionadas ao trânsito. 
+
+O conteúdo é baseado no Código de Trânsito Brasileiro e materiais públicos disponíveis, mas recomendamos sempre consultar as fontes oficiais do DETRAN para informações definitivas sobre o processo de habilitação.
+
+Para informações oficiais sobre habilitação, consulte:
+- Portal oficial do DETRAN do seu estado
+- Site do DENATRAN (www.gov.br/transportes/pt-br/assuntos/transito)
+
 ## CONTATO
 
 Caso você possua alguma dúvida com relação a esta Política de Privacidade ou sobre o tratamento de seus dados, entre em contato conosco através do e-mail: **devbrothersince@gmail.com**
