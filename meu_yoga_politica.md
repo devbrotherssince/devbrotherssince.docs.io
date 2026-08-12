@@ -86,3 +86,13 @@ Essas redes podem utilizar cookies ou identificadores anônimos para exibir anú
 
 Você pode desativar anúncios personalizados acessando:
 👉 Configurações de anúncios do Google
+
+EXCLUSÃO DE DADOS
+
+O Meu YOGA Diário não mantém os dados de progresso e preferências do usuário em servidores externos. As informações relacionadas às práticas de yoga, estatísticas, preferências e configurações são armazenadas localmente no dispositivo do usuário.
+
+O usuário pode excluir esses dados a qualquer momento por meio das configurações do próprio dispositivo, utilizando a opção de apagar os dados do aplicativo ou desinstalando o Meu YOGA Diário.
+
+Como esses dados são armazenados localmente no dispositivo e não são enviados para nossos servidores, não é necessário realizar uma solicitação de exclusão junto à nossa empresa.
+
+Caso o aplicativo venha a utilizar futuramente algum serviço que armazene dados pessoais em servidores externos, esta Política de Privacidade será atualizada para informar quais dados são armazenados e como o usuário poderá solicitar sua exclusão.
